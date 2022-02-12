@@ -3,7 +3,7 @@
   
 <h3 align="left">Main Languages:</h3>  
 <!---
-Main language: Python, C# & Javascript
+Main language: Python, C# & C
 --->
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
@@ -12,8 +12,8 @@ Main language: Python, C# & Javascript
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/> 
   </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/c/c-original.svg" alt="c++" width="40" height="40"/> 
   </a> 
 </p>
 
@@ -35,7 +35,7 @@ Web: HTML5, CSS3 & NodeJS
 
 <h3 align="left">Other:</h3>  
 <!---
-Other: Unity, Arduino, Typescript & C++
+Other: Unity, Arduino, Typescript & Javascript
 --->
 <p align="left">
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
@@ -47,7 +47,7 @@ Other: Unity, Arduino, Typescript & C++
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/c/c-original.svg" alt="c++" width="40" height="40"/> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
 </p>
