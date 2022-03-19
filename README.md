@@ -12,8 +12,8 @@ Main language: Python, C# & C
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/> 
   </a> 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/c/c-original.svg" alt="c++" width="40" height="40"/> 
+    <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> 
   </a> 
 </p>
 
