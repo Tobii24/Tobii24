@@ -4,8 +4,6 @@
   <br></br>
 </h3>  
   
-<br></br>
-  
 ## Languages  
 <div>
   <img align="left" alt="Tobi-C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
