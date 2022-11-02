@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tobi!</h1>  
 <h2 align="center">
   I'm an independent developer seeking for contributing for the world! I love programming; language design & game development are my favorite!
+  <br></br>
 </h3>  
   
 ## Languages  
