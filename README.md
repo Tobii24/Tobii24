@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tobi!</h1>  
+<h1 align="center">Hey 👋, I'm Tobi!</h1>  
 <h2 align="center">
   I'm a hobbist programmer! A lover of programming language design (compiler dark arts)
   <br></br>
