@@ -4,5 +4,16 @@
   <br></br>
 </h2>  
 
-### Favorite language is Rust. 
-> But I also know C, C#, Javascript, Python, Lua...
+<h3 align="center">
+  Primary Tools & Languages
+</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=rust,c,git,cs,js,ts,py,lua,linux" />
+</div>
+
+<h3 align="center">
+  Other
+</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,bash,cpp,html,md,mongodb,nodejs,deno,unity,unreal,vscode"/>
+</div>
