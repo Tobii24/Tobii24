@@ -8,12 +8,12 @@
   Primary Languages & Tools
 </h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,c,cs,vscode,github,git,js,ts,nodejs,mongodb,nextjs" />
+  <img src="https://skillicons.dev/icons?i=rust,c,vscode,github,git,js,ts,nodejs,mongodb,nextjs" />
 </div>
 
 <h3 align="center">
   Other
 </h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,arduino,py,lua,html,css,azure,unity,unreal"/>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,arduino,py,lua,html,css,azure,unity,unreal"/>
 </div>
