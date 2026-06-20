@@ -22,12 +22,12 @@
 
 <h3>Languages</h3>
 <div>
-  <img src="https://i.icoziv.workers.dev/icons?i=rust,golang,javascript,typescript" alt="Rust, Go, JavaScript, and TypeScript icons">
+  <img src="https://i.icoziv.workers.dev/icons?i=rust,javascript,typescript">
 </div>
 
 <h3>Tools & Web</h3>
 <div>
-  <img src="https://i.icoziv.workers.dev/icons?i=linux,azure,cloudflare,html,css,tailwindcss,nodejs,nextjs,reactjs,mongodb" alt="Linux, Azure, Cloudflare, HTML, CSS, Tailwind CSS, Node.js, Next.js, React, and MongoDB icons">
+  <img src="https://i.icoziv.workers.dev/icons?i=linux,azure,cloudflare,html,css,tailwindcss,nodejs,nextjs,reactjs,mongodb">
 </div>
 
-<h2>🌱 Also Familiar With</h2> <div> <img src="https://i.icoziv.workers.dev/icons?i=python,lua,csharp,c,astro,expressjs" alt="Python, Lua, C#, and C icons"> </div>
+<h2>🌱 Also Familiar With</h2> <div> <img src="https://i.icoziv.workers.dev/icons?i=python,lua,csharp,golang,c,astro,expressjs"> </div>
